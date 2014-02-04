@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://cheeseandpepper.github.io/atom.xml" rel="self"/>
   <link href="http://cheeseandpepper.github.io/"/>
-  <updated>2014-02-04T17:10:50-05:00</updated>
+  <updated>2014-02-04T17:22:34-05:00</updated>
   <id>http://cheeseandpepper.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,9 @@
     <link href="http://cheeseandpepper.github.io/blog/2014/02/04/hello-world/"/>
     <updated>2014-02-04T16:43:41-05:00</updated>
     <id>http://cheeseandpepper.github.io/blog/2014/02/04/hello-world</id>
-    <content type="html"><![CDATA[<p>Wassup flatiron!  I am content!!!</p>
+    <content type="html"><![CDATA[<p><img src="http://www.web3d.org/x3d/content/examples/HelloWorld.gif" alt="Hello" /></p>
+
+<p>Wassup flatiron!  I am content!!!</p>
 ]]></content>
   </entry>
   
