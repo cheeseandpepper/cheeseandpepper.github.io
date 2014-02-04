@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://cheeseandpepper.github.io/sitemap.xml 
